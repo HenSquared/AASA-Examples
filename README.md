@@ -7,13 +7,49 @@ AASA-Examples is a repository of examples of [Apple App Site Association](https:
 - Better understand how AASA files work
 - Research other organizations features and deeplinks
 
+Some companies have quite small AASA files:
+
+Telegram:
+```
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "X834Q8SBVP.org.telegram.TelegramEnterprise",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "C67CF9S4VU.ph.telegra.Telegraph",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "X834Q8SBVP.org.telegram.Telegram-iOS",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
+```
+
+While others are much more large:
+```bash
+$ wc -l aasa_examples/amazon.json
+3170 aasa_examples/amazon.json
+```
 <!-- Prerequisites -->
 ###  Prerequisites
 
 This project uses python3 and standard libraries.
 
 <!-- Run -->
-### :running: Run
+### Run
 
 Clone the project
 
