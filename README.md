@@ -7,9 +7,11 @@ AASA-Examples is examples of [Apple App Site Association](https://developer.appl
 - Better understand how AASA files work
 - Research other organizations features and deeplinks
 
+Examples are stored in [aasa_examples](https://github.com/HenSquared/AASA-Examples/tree/main/aasa_examples)
+
 Some companies have quite small AASA files:
 
-Telegram.json
+[telegram.json](https://github.com/HenSquared/AASA-Examples/tree/main/aasa_examples/telegram.json)
 ```
 {
     "applinks": {
@@ -39,12 +41,12 @@ Telegram.json
 ```
 
 While others are much more large:
+Example: [amazon.json](https://github.com/HenSquared/AASA-Examples/tree/main/aasa_examples/amazon.json)
+
 ```bash
 $ wc -l aasa_examples/amazon.json
 3170 aasa_examples/amazon.json
 ```
-
-Examples are stored in [aasa_examples](https://github.com/HenSquared/AASA-Examples/tree/main/aasa_examples)
 
 <!-- Prerequisites -->
 ###  Prerequisites
