@@ -36,6 +36,13 @@ Run the project
 <!-- Contributing -->
 ### Contributing
 
-I welcome additional examples of AASA files. Please add a URL and a name to urls.csv and rerun the script. Make a PR with these changes. 
+I welcome additional examples of AASA files. 
+
+1. Add a URL and name to urls.csv
+2. Rerun the project. 
+3. Check for errors
+3. If no errors, open a PR with your additions. 
+
+Thanks!
 
 
