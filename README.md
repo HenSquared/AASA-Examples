@@ -43,6 +43,9 @@ While others are much more large:
 $ wc -l aasa_examples/amazon.json
 3170 aasa_examples/amazon.json
 ```
+
+Examples are stored in [aasa_examples](https://github.com/HenSquared/AASA-Examples/tree/main/aasa_examples)
+
 <!-- Prerequisites -->
 ###  Prerequisites
 
