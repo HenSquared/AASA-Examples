@@ -41,6 +41,7 @@ Some companies have quite small AASA files:
 ```
 
 While others are much more large:
+
 Example: [amazon.json](https://github.com/HenSquared/AASA-Examples/tree/main/aasa_examples/amazon.json)
 
 ```bash
