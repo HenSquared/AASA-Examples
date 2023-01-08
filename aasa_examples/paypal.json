@@ -1,0 +1,101 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "7JMU3EK8QX.com.yourcompany.PPClient",
+                "paths": [
+                    "/mobile/checkout",
+                    "/mobile/agreements",
+                    "/success-donation-mobile",
+                    "/cancel-donation-mobile",
+                    "/fundraiser/charity/*",
+                    "/myaccount/transfer/payRequest/*",
+                    "/signin/connect/mobile/link",
+                    "/myaccount/money/push/opt-in",
+                    "/signin/mobiletpd",
+                    "/connect/mobile"
+                ]
+            },
+            {
+                "appID": "7JMU3EK8QX.com.paypal.ppclient-development",
+                "paths": [
+                    "/mobile/checkout",
+                    "/mobile/agreements",
+                    "/success-donation-mobile",
+                    "/cancel-donation-mobile",
+                    "/fundraiser/charity/*",
+                    "/myaccount/money",
+                    "/myaccount/wallet/add/card",
+                    "/myaccount/wallet",
+                    "/myaccount/transfer/payRequest/*",
+                    "/native/signin/",
+                    "/native/signin",
+                    "/signin/connect/mobile/link",
+                    "/myaccount/money/push/opt-in",
+                    "/signin/mobiletpd",
+                    "/connect/mobile"
+                ]
+            },
+            {
+                "appID": "273ZFN43PK.com.paypal.internal.ppclient",
+                "paths": [
+                    "/mobile/checkout",
+                    "/mobile/agreements",
+                    "/success-donation-mobile",
+                    "/cancel-donation-mobile",
+                    "/fundraiser/charity/*",
+                    "/myaccount/transfer/payRequest/*",
+                    "/native/signin/",
+                    "/native/signin",
+                    "/signin/connect/mobile/link",
+                    "/myaccount/money/push/opt-in",
+                    "/connect/mobile"
+                ]
+            },
+            {
+                "appID": "273ZFN43PK.com.paypal.internal.ppclient-development",
+                "paths": [
+                    "/mobile/checkout",
+                    "/mobile/agreements",
+                    "/success-donation-mobile",
+                    "/cancel-donation-mobile",
+                    "/fundraiser/charity/*",
+                    "/myaccount/money",
+                    "/myaccount/wallet/add/card",
+                    "/myaccount/wallet",
+                    "/myaccount/transfer/payRequest/*",
+                    "/native/signin/",
+                    "/native/signin",
+                    "/signin/connect/mobile/link",
+                    "/myaccount/money/push/opt-in",
+                    "/connect/mobile"
+                ]
+            },
+            {
+                "appID": "729JAJ944S.com.paypal.merchant",
+                "paths": [
+                    "/invoice/details/*"
+                ]
+            },
+            {
+                "appID": "729JAJ944S.com.paypal.merchant.development",
+                "paths": [
+                    "/invoice/details/*"
+                ]
+            },
+            {
+                "appID": "727K56WV67.com.paypal.merchant",
+                "paths": [
+                    "/invoice/details/*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "7JMU3EK8QX.com.yourcompany.PPClient",
+            "7JMU3EK8QX.com.paypal.ppclient-development"
+        ]
+    }
+}

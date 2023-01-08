@@ -1,0 +1,25 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "X834Q8SBVP.org.telegram.TelegramEnterprise",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "C67CF9S4VU.ph.telegra.Telegraph",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "X834Q8SBVP.org.telegram.Telegram-iOS",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}

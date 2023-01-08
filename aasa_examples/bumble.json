@@ -1,0 +1,67 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "8QRHA24EHD.com.moxco.bumble",
+                "paths": [
+                    "/aa/*",
+                    "/u/*",
+                    "/l/a/*",
+                    "/l/r/*",
+                    "/l/s/*"
+                ]
+            },
+            {
+                "appID": "8U63L82KCQ.com.moxco.bumble.enterprise",
+                "paths": [
+                    "/aa/*",
+                    "/u/*",
+                    "/l/a/*",
+                    "/l/r/*",
+                    "/l/s/*"
+                ]
+            },
+            {
+                "appID": "RPLQZXP536.com.moxco.bumble.dev",
+                "paths": [
+                    "/aa/*",
+                    "/u/*",
+                    "/l/a/*",
+                    "/l/r/*",
+                    "/l/s/*"
+                ]
+            },
+            {
+                "appID": "87V54RC58L.com.moxco.bumble.dev1",
+                "paths": [
+                    "/aa/*",
+                    "/u/*",
+                    "/l/a/*",
+                    "/l/r/*",
+                    "/l/s/*"
+                ]
+            },
+            {
+                "appID": "5A5626XPHN.com.moxco.bumble.dev3",
+                "paths": [
+                    "/aa/*",
+                    "/u/*",
+                    "/l/a/*",
+                    "/l/r/*",
+                    "/l/s/*"
+                ]
+            },
+            {
+                "appID": "54Z32M8L2C.com.moxco.bumble.dev4",
+                "paths": [
+                    "/aa/*",
+                    "/u/*",
+                    "/l/a/*",
+                    "/l/r/*",
+                    "/l/s/*"
+                ]
+            }
+        ]
+    }
+}

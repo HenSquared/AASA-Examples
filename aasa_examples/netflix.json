@@ -1,0 +1,426 @@
+{
+    "activitycontinuation": {
+        "apps": [
+            "YXNLG53YV4.com.netflix.Netflix",
+            "GN37K848D7.com.netflix.Netflix",
+            "EZ4M4LKSQP.com.netflix.netflixInhouse"
+        ]
+    },
+    "applinks": {
+        "apps": [],
+        "defaults": {
+            "caseSensitive": false
+        },
+        "details": [
+            {
+                "appID": "YXNLG53YV4.com.netflix.Netflix",
+                "paths": [
+                    "/title/*",
+                    "/clips/*",
+                    "/extras/*",
+                    "/browse/*",
+                    "/watch/*",
+                    "/search/*",
+                    "/add/*",
+                    "/profiles/*",
+                    "/nmwatch/*",
+                    "/notification/*",
+                    "/remind-me/*",
+                    "/like/*",
+                    "/dislike/*",
+                    "/download/*",
+                    "/mobilehelp/*",
+                    "/youraccount/*",
+                    "/specials/*",
+                    "/kids/*"
+                ],
+                "components": [
+                    {
+                        "#": "no_ul",
+                        "exclude": true
+                    },
+                    {
+                        "?": {
+                            "no_ul": "1"
+                        },
+                        "exclude": true
+                    },
+                    {
+                        "/": "/clearcookies*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/wow*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/termofuse*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/login*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/logout*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/signin*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/signout*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/signup*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/settings*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/tv*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/partner*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/simplemember*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/topup*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/tudum*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/managesubscriptions*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/notfound*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/transfer*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/create*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/account/getmyinfo*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/account/pause*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/extra",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/extramember*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/join",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/verifydevice*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/?*"
+                    }
+                ]
+            },
+            {
+                "appID": "GN37K848D7.com.netflix.Netflix",
+                "paths": [
+                    "/title/*",
+                    "/clips/*",
+                    "/extras/*",
+                    "/browse/*",
+                    "/watch/*",
+                    "/search/*",
+                    "/add/*",
+                    "/profiles/*",
+                    "/nmwatch/*",
+                    "/notification/*",
+                    "/remind-me/*",
+                    "/like/*",
+                    "/dislike/*",
+                    "/download/*",
+                    "/mobilehelp/*",
+                    "/youraccount/*",
+                    "/specials/*",
+                    "/kids/*"
+                ],
+                "components": [
+                    {
+                        "#": "no_ul",
+                        "exclude": true
+                    },
+                    {
+                        "?": {
+                            "no_ul": "1"
+                        },
+                        "exclude": true
+                    },
+                    {
+                        "/": "/clearcookies*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/wow*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/termofuse*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/login*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/logout*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/signin*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/signout*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/signup*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/settings*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/tv*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/partner*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/simplemember*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/topup*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/tudum*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/managesubscriptions*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/notfound*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/transfer*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/create*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/account/getmyinfo*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/account/pause*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/extra",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/extramember*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/join",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/verifydevice*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/?*"
+                    }
+                ]
+            },
+            {
+                "appID": "EZ4M4LKSQP.com.netflix.netflixInhouse",
+                "paths": [
+                    "/title/*",
+                    "/clips/*",
+                    "/extras/*",
+                    "/browse/*",
+                    "/watch/*",
+                    "/search/*",
+                    "/add/*",
+                    "/profiles/*",
+                    "/nmwatch/*",
+                    "/notification/*",
+                    "/remind-me/*",
+                    "/like/*",
+                    "/dislike/*",
+                    "/download/*",
+                    "/mobilehelp/*",
+                    "/youraccount/*",
+                    "/specials/*",
+                    "/kids/*"
+                ],
+                "components": [
+                    {
+                        "#": "no_ul",
+                        "exclude": true
+                    },
+                    {
+                        "?": {
+                            "no_ul": "1"
+                        },
+                        "exclude": true
+                    },
+                    {
+                        "/": "/clearcookies*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/wow*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/termofuse*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/login*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/logout*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/signin*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/signout*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/signup*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/settings*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/tv*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/partner*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/simplemember*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/topup*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/tudum*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/managesubscriptions*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/notfound*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/transfer*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/create*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/account/getmyinfo*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/account/pause*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/extra",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/extramember*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/join",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/verifydevice*",
+                        "exclude": true
+                    },
+                    {
+                        "/": "/?*"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "YXNLG53YV4.com.netflix.Netflix",
+            "GN37K848D7.com.netflix.Netflix",
+            "EZ4M4LKSQP.com.netflix.netflixInhouse"
+        ]
+    }
+}

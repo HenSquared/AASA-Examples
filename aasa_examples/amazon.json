@@ -1,0 +1,3171 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "components": [
+                    {
+                        "/": "/music-links/*"
+                    }
+                ],
+                "appIDs": [
+                    "J7P34ALZ5R.com.amazon.mp3.AmazonCloudPlayer",
+                    "E39XYEAA8P.com.amazon.mp3.CloudPlayer"
+                ]
+            },
+            {
+                "components": [
+                    {
+                        "/": "/wholefoodsmarket/receipts/*"
+                    }
+                ],
+                "appIDs": [
+                    "M7YPJLVFLJ.com.wholefoods.WholeFoods"
+                ]
+            },
+            {
+                "components": [
+                    {
+                        "exclude": true,
+                        "?": {
+                            "nodl": "0"
+                        }
+                    },
+                    {
+                        "exclude": true,
+                        "?": {
+                            "nodl": "*1*"
+                        }
+                    },
+                    {
+                        "exclude": true,
+                        "/": "*/ref=*_nodl"
+                    },
+                    {
+                        "exclude": true,
+                        "/": "*/ref=nodl_*"
+                    },
+                    {
+                        "exclude": true,
+                        "/": "/business/register/welcome*"
+                    },
+                    {
+                        "exclude": true,
+                        "/": "/business/register/intercept-non-business*"
+                    },
+                    {
+                        "/": "/*/ab/*"
+                    },
+                    {
+                        "/": "/*/b2b-*"
+                    },
+                    {
+                        "/": "/ab/*"
+                    },
+                    {
+                        "/": "/ab/approvals/purchase/detail/*"
+                    },
+                    {
+                        "/": "/b2b/*"
+                    },
+                    {
+                        "/": "/business/*"
+                    },
+                    {
+                        "/": "/business/register/user/*"
+                    },
+                    {
+                        "/": "/businessprime/*"
+                    },
+                    {
+                        "/": "/bb/feature/sso/action/start*"
+                    },
+                    {
+                        "/": "/gp/savingshub*"
+                    },
+                    {
+                        "/": "/bb/account/"
+                    },
+                    {
+                        "/": "/bb/account"
+                    },
+                    {
+                        "/": "/bb/account.html"
+                    },
+                    {
+                        "/": "/bb/account/settings"
+                    },
+                    {
+                        "/": "/bb/account/*/settings"
+                    },
+                    {
+                        "/": "/bb/account/*/settings.html"
+                    },
+                    {
+                        "/": "/gp/b2b/manage/*"
+                    },
+                    {
+                        "/": "/privacy/data-deletion/confirmation*"
+                    },
+                    {
+                        "/": "/business/register/org/status*"
+                    },
+                    {
+                        "/": "/business/register/help/customer-service*"
+                    },
+                    {
+                        "/": "/ab/invitations/accept/*"
+                    },
+                    {
+                        "/": "/ab/receiving/group/*"
+                    },
+                    {
+                        "/": "/eco_mark"
+                    },
+                    {
+                        "/": "/b",
+                        "?": {
+                            "node": "23772815011",
+                            "ie": "UTF8"
+                        }
+                    },
+                    {
+                        "/": "/b",
+                        "?": {
+                            "node": "23873699011",
+                            "ie": "UTF8"
+                        }
+                    },
+                    {
+                        "/": "/b",
+                        "?": {
+                            "node": "23772819011",
+                            "ie": "UTF8"
+                        }
+                    },
+                    {
+                        "/": "/b",
+                        "?": {
+                            "node": "23772820011",
+                            "ie": "UTF8"
+                        }
+                    },
+                    {
+                        "/": "/b",
+                        "?": {
+                            "node": "23772821011",
+                            "ie": "UTF8"
+                        }
+                    },
+                    {
+                        "/": "/your-interactions/list-case*"
+                    },
+                    {
+                        "/": "/your-interactions/view-case*"
+                    }
+                ],
+                "appIDs": [
+                    "94KV3E626L.com.amazon.AmazonBusiness.adhoc",
+                    "94KV3E626L.com.amazon.AmazonBusiness"
+                ]
+            },
+            {
+                "components": [
+                    {
+                        "exclude": true,
+                        "?": {
+                            "nodl": "0"
+                        }
+                    },
+                    {
+                        "exclude": true,
+                        "?": {
+                            "nodl": "*1*"
+                        }
+                    },
+                    {
+                        "exclude": true,
+                        "/": "*/ref=*_nodl"
+                    },
+                    {
+                        "exclude": true,
+                        "/": "*/ref=nodl_*"
+                    },
+                    {
+                        "exclude": true,
+                        "/": "/business/register/welcome*"
+                    },
+                    {
+                        "exclude": true,
+                        "/": "/business/register/intercept-non-business*"
+                    },
+                    {
+                        "/": "/*/ab/*"
+                    },
+                    {
+                        "/": "/*/b2b-*"
+                    },
+                    {
+                        "/": "/ab/*"
+                    },
+                    {
+                        "/": "/ab/approvals/purchase/detail/*"
+                    },
+                    {
+                        "/": "/b2b/*"
+                    },
+                    {
+                        "/": "/business/*"
+                    },
+                    {
+                        "/": "/business/register/user/*"
+                    },
+                    {
+                        "/": "/businessprime/*"
+                    },
+                    {
+                        "/": "/bb/feature/sso/action/start*"
+                    },
+                    {
+                        "/": "/gp/savingshub*"
+                    },
+                    {
+                        "/": "/bb/account/"
+                    },
+                    {
+                        "/": "/bb/account"
+                    },
+                    {
+                        "/": "/bb/account.html"
+                    },
+                    {
+                        "/": "/bb/account/settings"
+                    },
+                    {
+                        "/": "/bb/account/*/settings"
+                    },
+                    {
+                        "/": "/bb/account/*/settings.html"
+                    },
+                    {
+                        "/": "/gp/b2b/manage/*"
+                    },
+                    {
+                        "/": "/privacy/data-deletion/confirmation*"
+                    },
+                    {
+                        "/": "/business/register/org/status*"
+                    },
+                    {
+                        "/": "/business/register/help/customer-service*"
+                    },
+                    {
+                        "/": "/ab/invitations/accept/*"
+                    },
+                    {
+                        "/": "/ab/receiving/group/*"
+                    },
+                    {
+                        "/": "/eco_mark"
+                    },
+                    {
+                        "/": "/b",
+                        "?": {
+                            "node": "23772815011",
+                            "ie": "UTF8"
+                        }
+                    },
+                    {
+                        "/": "/b",
+                        "?": {
+                            "node": "23873699011",
+                            "ie": "UTF8"
+                        }
+                    },
+                    {
+                        "/": "/b",
+                        "?": {
+                            "node": "23772819011",
+                            "ie": "UTF8"
+                        }
+                    },
+                    {
+                        "/": "/b",
+                        "?": {
+                            "node": "23772820011",
+                            "ie": "UTF8"
+                        }
+                    },
+                    {
+                        "/": "/b",
+                        "?": {
+                            "node": "23772821011",
+                            "ie": "UTF8"
+                        }
+                    },
+                    {
+                        "/": "/gp/f.html"
+                    },
+                    {
+                        "/": "/your-interactions/list-case*"
+                    },
+                    {
+                        "/": "/your-interactions/view-case*"
+                    }
+                ],
+                "appIDs": [
+                    "5F4A8FGMM7.com.amazon.AmazonBusiness.Enterprise",
+                    "94KV3E626L.com.amazon.AmazonBusiness.development"
+                ]
+            },
+            {
+                "components": [
+                    {
+                        "exclude": true,
+                        "?": {
+                            "nodl": "0"
+                        }
+                    },
+                    {
+                        "exclude": true,
+                        "?": {
+                            "nodl": "*1*"
+                        }
+                    },
+                    {
+                        "exclude": true,
+                        "/": "*/ref=*_nodl"
+                    },
+                    {
+                        "exclude": true,
+                        "/": "*/ref=nodl_*"
+                    },
+                    {
+                        "/": "/"
+                    },
+                    {
+                        "/": "/-/*/"
+                    },
+                    {
+                        "/": "*/b"
+                    },
+                    {
+                        "/": "*/b/ref=*"
+                    },
+                    {
+                        "/": "/*/dp/??????????"
+                    },
+                    {
+                        "/": "/*/dp/??????????/ref=*"
+                    },
+                    {
+                        "/": "/-/*/dp/??????????"
+                    },
+                    {
+                        "/": "/-/*/dp/??????????/ref=*"
+                    },
+                    {
+                        "/": "/ab/approvals/purchase/detail/*"
+                    },
+                    {
+                        "/": "/ap/pv"
+                    },
+                    {
+                        "/": "/b*node=16329084011"
+                    },
+                    {
+                        "/": "/bb/registration/epd/new-customer/*"
+                    },
+                    {
+                        "/": "/business/register/user/*"
+                    },
+                    {
+                        "/": "/cs"
+                    },
+                    {
+                        "/": "/d/*/*/??????????"
+                    },
+                    {
+                        "/": "/d/*/*/??????????/ref=*"
+                    },
+                    {
+                        "/": "/-/*/d/*/*/??????????"
+                    },
+                    {
+                        "/": "/-/*/d/*/*/??????????/ref=*"
+                    },
+                    {
+                        "/": "/deals"
+                    },
+                    {
+                        "/": "/-/*/deals"
+                    },
+                    {
+                        "/": "/dp/??????????"
+                    },
+                    {
+                        "/": "/dp/??????????/ref=*"
+                    },
+                    {
+                        "/": "/-/*/dp/??????????"
+                    },
+                    {
+                        "/": "/-/*/dp/??????????/ref=*"
+                    },
+                    {
+                        "/": "/ga/giveaways"
+                    },
+                    {
+                        "/": "/ga/giveaways/ref=*"
+                    },
+                    {
+                        "/": "/ga/p/*"
+                    },
+                    {
+                        "/": "/gc/redeem"
+                    },
+                    {
+                        "/": "/gp/aw/baby-reg"
+                    },
+                    {
+                        "/": "/gp/aw/baby-reg/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/d/??????????"
+                    },
+                    {
+                        "/": "/gp/aw/d/??????????/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/gb"
+                    },
+                    {
+                        "/": "/gp/aw/gb/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/h.html"
+                    },
+                    {
+                        "/": "/gp/aw/h.html/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/homepage.html"
+                    },
+                    {
+                        "/": "/gp/aw/homepage.html/ref=*"
+                    },
+                    {
+                        "/": "/-/*/gp/aw/gb"
+                    },
+                    {
+                        "/": "/-/*/gp/aw/gb/ref=*"
+                    },
+                    {
+                        "/": "/-/*/gp/aw/h.html"
+                    },
+                    {
+                        "/": "/-/*/gp/aw/h.html/ref=*"
+                    },
+                    {
+                        "/": "/-/*/gp/aw/homepage.html"
+                    },
+                    {
+                        "/": "/-/*/gp/aw/homepage.html/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/ls"
+                    },
+                    {
+                        "/": "/gp/aw/ls/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/ol/??????????"
+                    },
+                    {
+                        "/": "/gp/aw/ol/??????????/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/s"
+                    },
+                    {
+                        "/": "/gp/aw/s/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/search"
+                    },
+                    {
+                        "/": "/gp/aw/search/ref=*"
+                    },
+                    {
+                        "/": "/gp/baby-reg/ref=*"
+                    },
+                    {
+                        "/": "/gp/css/gc/payment/view-gc-balance"
+                    },
+                    {
+                        "/": "/gp/css/homepage.html/*"
+                    },
+                    {
+                        "/": "/gp/digital/fiona/manage/*"
+                    },
+                    {
+                        "/": "/gp/goldbox"
+                    },
+                    {
+                        "/": "/-/*/gp/goldbox"
+                    },
+                    {
+                        "/": "/gp/homepage.html"
+                    },
+                    {
+                        "/": "/gp/homepage.html/ref=*"
+                    },
+                    {
+                        "/": "/-/*/gp/homepage.html"
+                    },
+                    {
+                        "/": "/-/*/gp/homepage.html/ref=*"
+                    },
+                    {
+                        "/": "/gp/mobile-marketing/landing/mrp"
+                    },
+                    {
+                        "/": "/gp/mobile-marketing/redirect/*"
+                    },
+                    {
+                        "/": "/gp/mobile/deals"
+                    },
+                    {
+                        "/": "/gp/mobile/deals/all-deals"
+                    },
+                    {
+                        "/": "/gp/mobile/deals/best-deals"
+                    },
+                    {
+                        "/": "/gp/mobile/deals/dotds"
+                    },
+                    {
+                        "/": "/gp/mobile/deals/lightning-deals"
+                    },
+                    {
+                        "/": "/-/*/gp/mobile/deals"
+                    },
+                    {
+                        "/": "/-/*/gp/mobile/deals/all-deals"
+                    },
+                    {
+                        "/": "/-/*/gp/mobile/deals/best-deals"
+                    },
+                    {
+                        "/": "/-/*/gp/mobile/deals/dotds"
+                    },
+                    {
+                        "/": "/-/*/gp/mobile/deals/lightning-deals"
+                    },
+                    {
+                        "/": "/gp/offer-listing/??????????"
+                    },
+                    {
+                        "/": "/gp/offer-listing/??????????/ref=*"
+                    },
+                    {
+                        "/": "/gp/product/??????????"
+                    },
+                    {
+                        "/": "/gp/product/??????????/ref=*"
+                    },
+                    {
+                        "/": "/-/*/gp/product/??????????"
+                    },
+                    {
+                        "/": "/-/*/gp/product/??????????/ref=*"
+                    },
+                    {
+                        "/": "/gp/r.html"
+                    },
+                    {
+                        "/": "/gp/s"
+                    },
+                    {
+                        "/": "/gp/s/ref=*"
+                    },
+                    {
+                        "/": "/gp/search"
+                    },
+                    {
+                        "/": "/gp/search/ref=*"
+                    },
+                    {
+                        "/": "/hp/shopwithpoints/account/redirectionEnroll/app"
+                    },
+                    {
+                        "/": "/mpr"
+                    },
+                    {
+                        "/": "/Outfit-Compare/b*node=16329084011"
+                    },
+                    {
+                        "/": "/products"
+                    },
+                    {
+                        "/": "/ref=*"
+                    },
+                    {
+                        "/": "/restaurants/d/*"
+                    },
+                    {
+                        "/": "/s"
+                    },
+                    {
+                        "/": "/s/ref=*"
+                    },
+                    {
+                        "/": "/*/s"
+                    },
+                    {
+                        "/": "/*/s/ref=*"
+                    },
+                    {
+                        "/": "/exec/obidos/ASIN/??????????"
+                    },
+                    {
+                        "/": "/_deeplink_client_config_debug_info"
+                    },
+                    {
+                        "/": "/*/forum/Fx*/Tx*"
+                    },
+                    {
+                        "/": "/*/product-reviews/*"
+                    },
+                    {
+                        "/": "/22pdsmb"
+                    },
+                    {
+                        "/": "/22pdsmb_deal"
+                    },
+                    {
+                        "/": "/Amazon-Trade-In/b*"
+                    },
+                    {
+                        "/": "/Blink-for-Home-by-Immedia/dp/B07B6BSPY4/"
+                    },
+                    {
+                        "/": "/ELMshopJS"
+                    },
+                    {
+                        "/": "/InstantPickup"
+                    },
+                    {
+                        "/": "/InstantPickup/r/*"
+                    },
+                    {
+                        "/": "/Instantpickup"
+                    },
+                    {
+                        "/": "/Instantpickup/r/*"
+                    },
+                    {
+                        "/": "/OutfitCompare"
+                    },
+                    {
+                        "/": "/OutfitCompare/ref=*"
+                    },
+                    {
+                        "/": "/Ring/dp/B01JTL2PYE"
+                    },
+                    {
+                        "/": "/Subscribe/b"
+                    },
+                    {
+                        "/": "/WingsFinancial"
+                    },
+                    {
+                        "/": "/a/addresses"
+                    },
+                    {
+                        "/": "/a/c/m"
+                    },
+                    {
+                        "/": "/abmobile/*"
+                    },
+                    {
+                        "/": "/abp/credit/*/application/partner-error"
+                    },
+                    {
+                        "/": "/access/application"
+                    },
+                    {
+                        "/": "/addgiftcard"
+                    },
+                    {
+                        "/": "/adlp/*"
+                    },
+                    {
+                        "/": "/adprefs"
+                    },
+                    {
+                        "/": "/afx/cartconflicts/copy"
+                    },
+                    {
+                        "/": "/afx/cartconflicts/copy/mobile"
+                    },
+                    {
+                        "/": "/afx/cartconflicts/resolve/substitute"
+                    },
+                    {
+                        "/": "/afx/cartconflicts/resolve/substitute/mobile"
+                    },
+                    {
+                        "/": "/afx/ingredients/recipe"
+                    },
+                    {
+                        "/": "/afx/ingredients/recipe/search"
+                    },
+                    {
+                        "/": "/afx/lists/pastpurchases*"
+                    },
+                    {
+                        "/": "/aiv"
+                    },
+                    {
+                        "/": "/alexa-automotive"
+                    },
+                    {
+                        "/": "/alexa-shopping-inlets"
+                    },
+                    {
+                        "/": "/alexa-voice-service/splash"
+                    },
+                    {
+                        "/": "/alexachallenge"
+                    },
+                    {
+                        "/": "/alexashopping/notification"
+                    },
+                    {
+                        "/": "/alexashopping/notification/*"
+                    },
+                    {
+                        "/": "/alexashoppinglists/api/recipe/save"
+                    },
+                    {
+                        "/": "/alm/category"
+                    },
+                    {
+                        "/": "/alm/category/ref=*"
+                    },
+                    {
+                        "/": "/alm/deals/ref=*"
+                    },
+                    {
+                        "/": "/alm/m/*"
+                    },
+                    {
+                        "/": "/alm/ordering/waitlist"
+                    },
+                    {
+                        "/": "/alm/storefront"
+                    },
+                    {
+                        "/": "/alm/storefront/ref=*"
+                    },
+                    {
+                        "/": "/amazoncash"
+                    },
+                    {
+                        "/": "/amazondiscover"
+                    },
+                    {
+                        "/": "/amazonsmile"
+                    },
+                    {
+                        "/": "/amsc"
+                    },
+                    {
+                        "/": "/ap/cvf/mobile/request"
+                    },
+                    {
+                        "/": "/apay-emi-dashboard"
+                    },
+                    {
+                        "/": "/apay-emi-dashboard/emi-payment"
+                    },
+                    {
+                        "/": "/apay-products/apv/*"
+                    },
+                    {
+                        "/": "/apay/money-transfer/invite-landing"
+                    },
+                    {
+                        "/": "/app"
+                    },
+                    {
+                        "/": "/app_rewards"
+                    },
+                    {
+                        "/": "/apresnoel"
+                    },
+                    {
+                        "/": "/ask/answer/Mx*"
+                    },
+                    {
+                        "/": "/ask/question/??????????"
+                    },
+                    {
+                        "/": "/ask/question/Tx*"
+                    },
+                    {
+                        "/": "/ask/questions/Tx*"
+                    },
+                    {
+                        "/": "/ask/questions/asin/??????????"
+                    },
+                    {
+                        "/": "/ask/questions/asin/??????????/ref=*"
+                    },
+                    {
+                        "/": "/asl/d"
+                    },
+                    {
+                        "/": "/atb/mshop/v1"
+                    },
+                    {
+                        "/": "/atv/detail"
+                    },
+                    {
+                        "/": "/auto-deliveries/*"
+                    },
+                    {
+                        "/": "/auto-deliveries/landing/*"
+                    },
+                    {
+                        "/": "/auto-insurance"
+                    },
+                    {
+                        "/": "/auto-insurance/*"
+                    },
+                    {
+                        "/": "/auto-lp/*"
+                    },
+                    {
+                        "/": "/avantlevendredifou"
+                    },
+                    {
+                        "/": "/b2b/feedback/*"
+                    },
+                    {
+                        "/": "/b3cb654e48588aa8b55331ecd972"
+                    },
+                    {
+                        "/": "/baby-reg/benefits/summary"
+                    },
+                    {
+                        "/": "/baby-reg/checklist"
+                    },
+                    {
+                        "/": "/baby-reg/discount/completion-discount"
+                    },
+                    {
+                        "/": "/baby-reg/homepage"
+                    },
+                    {
+                        "/": "/baby-reg/ideas"
+                    },
+                    {
+                        "/": "/baby-reg/itemListView"
+                    },
+                    {
+                        "/": "/baby-reg/showWelcomeBox"
+                    },
+                    {
+                        "/": "/backtoschool"
+                    },
+                    {
+                        "/": "/bbp"
+                    },
+                    {
+                        "/": "/bbp/ref=*"
+                    },
+                    {
+                        "/": "/beauty/your-recommendations/intro"
+                    },
+                    {
+                        "/": "/beauty/your-recommendations/ref=external"
+                    },
+                    {
+                        "/": "/beautytech-vto"
+                    },
+                    {
+                        "/": "/bestsellers"
+                    },
+                    {
+                        "/": "/blackfriday"
+                    },
+                    {
+                        "/": "/blackfriday/10"
+                    },
+                    {
+                        "/": "/blackfriday/11"
+                    },
+                    {
+                        "/": "/blackfriday/2"
+                    },
+                    {
+                        "/": "/blackfriday/3"
+                    },
+                    {
+                        "/": "/blackfriday/4"
+                    },
+                    {
+                        "/": "/blackfriday/5"
+                    },
+                    {
+                        "/": "/blackfriday/6"
+                    },
+                    {
+                        "/": "/blackfriday/7"
+                    },
+                    {
+                        "/": "/blackfriday/8"
+                    },
+                    {
+                        "/": "/blackfriday/9"
+                    },
+                    {
+                        "/": "/blackhistorymakers"
+                    },
+                    {
+                        "/": "/boxingday"
+                    },
+                    {
+                        "/": "/buenfin"
+                    },
+                    {
+                        "/": "/bus-tickets"
+                    },
+                    {
+                        "/": "/bus-tickets/booking/cancel/*"
+                    },
+                    {
+                        "/": "/bus-tickets/booking/resend/*"
+                    },
+                    {
+                        "/": "/bus-tickets/need-help/*"
+                    },
+                    {
+                        "/": "/bus-tickets/policy/*"
+                    },
+                    {
+                        "/": "/bus-tickets/tnc"
+                    },
+                    {
+                        "/": "/busapi/external/v1/eticket/*"
+                    },
+                    {
+                        "/": "/businessprime/manage"
+                    },
+                    {
+                        "/": "/cart"
+                    },
+                    {
+                        "/": "/cart/*"
+                    },
+                    {
+                        "/": "/cash"
+                    },
+                    {
+                        "/": "/cash/*"
+                    },
+                    {
+                        "/": "/cbcc/*"
+                    },
+                    {
+                        "/": "/cc/cctopup/*"
+                    },
+                    {
+                        "/": "/cer/landing/*"
+                    },
+                    {
+                        "/": "/cer/referral/*"
+                    },
+                    {
+                        "/": "/cer/stampcard/*"
+                    },
+                    {
+                        "/": "/closet"
+                    },
+                    {
+                        "/": "/clubs/pets/register"
+                    },
+                    {
+                        "/": "/collegedeals"
+                    },
+                    {
+                        "/": "/conditions_of_use_mobile"
+                    },
+                    {
+                        "/": "/contact-us"
+                    },
+                    {
+                        "/": "/conversations/*"
+                    },
+                    {
+                        "/": "/coupons"
+                    },
+                    {
+                        "/": "/cpe/revisepayments"
+                    },
+                    {
+                        "/": "/cpe/yourpayments/overview"
+                    },
+                    {
+                        "/": "/cpe/yourpayments/transactions"
+                    },
+                    {
+                        "/": "/cr/r/*"
+                    },
+                    {
+                        "/": "/credit/cobrandcard/credit"
+                    },
+                    {
+                        "/": "/credit/landing"
+                    },
+                    {
+                        "/": "/credit/myrewardscard"
+                    },
+                    {
+                        "/": "/credit/rewardscard/member"
+                    },
+                    {
+                        "/": "/credit/rewardscard/refer-a-friend"
+                    },
+                    {
+                        "/": "/credit/storecard/member"
+                    },
+                    {
+                        "/": "/customerpicks/*"
+                    },
+                    {
+                        "/": "/cyberlundi"
+                    },
+                    {
+                        "/": "/cybermonday"
+                    },
+                    {
+                        "/": "/dailydish"
+                    },
+                    {
+                        "/": "/dailydish/*"
+                    },
+                    {
+                        "/": "/dashbuttonsetup"
+                    },
+                    {
+                        "/": "/deal/*"
+                    },
+                    {
+                        "/": "/dealswithalexa"
+                    },
+                    {
+                        "/": "/deliveryfeedback"
+                    },
+                    {
+                        "/": "/deliveryfeedback/ref=*"
+                    },
+                    {
+                        "/": "/devoluciones"
+                    },
+                    {
+                        "/": "/devolucoes"
+                    },
+                    {
+                        "/": "/dibs/dashsetup"
+                    },
+                    {
+                        "/": "/discover/*"
+                    },
+                    {
+                        "/": "/discover/rooms"
+                    },
+                    {
+                        "/": "/dn/dashboard"
+                    },
+                    {
+                        "/": "/double11"
+                    },
+                    {
+                        "/": "/drop"
+                    },
+                    {
+                        "/": "/drop/*"
+                    },
+                    {
+                        "/": "/earlyaccess"
+                    },
+                    {
+                        "/": "/earlyblackfriday"
+                    },
+                    {
+                        "/": "/easterdeals"
+                    },
+                    {
+                        "/": "/efys"
+                    },
+                    {
+                        "/": "/elizaingress/startchat"
+                    },
+                    {
+                        "/": "/epicdeals"
+                    },
+                    {
+                        "/": "/events/avantlevendredifou"
+                    },
+                    {
+                        "/": "/events/bigsmilesale"
+                    },
+                    {
+                        "/": "/events/bigsmilesale/*"
+                    },
+                    {
+                        "/": "/events/bookfriday"
+                    },
+                    {
+                        "/": "/events/buenfin"
+                    },
+                    {
+                        "/": "/events/cyberlundi"
+                    },
+                    {
+                        "/": "/events/double11"
+                    },
+                    {
+                        "/": "/events/earlyaccess"
+                    },
+                    {
+                        "/": "/events/earlyblackfriday"
+                    },
+                    {
+                        "/": "/events/eidsale"
+                    },
+                    {
+                        "/": "/events/epicdeals"
+                    },
+                    {
+                        "/": "/events/greatfreedomsale"
+                    },
+                    {
+                        "/": "/events/greatindianfestival"
+                    },
+                    {
+                        "/": "/events/greatindiansale"
+                    },
+                    {
+                        "/": "/events/greatrepublicdaysale"
+                    },
+                    {
+                        "/": "/events/greatsummersale"
+                    },
+                    {
+                        "/": "/events/hatsuuri"
+                    },
+                    {
+                        "/": "/events/hatsuuri/*"
+                    },
+                    {
+                        "/": "/events/holidaydeals"
+                    },
+                    {
+                        "/": "/events/hotsale"
+                    },
+                    {
+                        "/": "/events/lastminutedeals"
+                    },
+                    {
+                        "/": "/events/monthlydealevent"
+                    },
+                    {
+                        "/": "/events/monthlydealevent/*"
+                    },
+                    {
+                        "/": "/events/monthlydealevent/3"
+                    },
+                    {
+                        "/": "/events/offresexceptionnelles"
+                    },
+                    {
+                        "/": "/events/okuladonus"
+                    },
+                    {
+                        "/": "/events/pointupcampaign"
+                    },
+                    {
+                        "/": "/events/pointupcampaign/*"
+                    },
+                    {
+                        "/": "/events/primeday/10"
+                    },
+                    {
+                        "/": "/events/primeday/11"
+                    },
+                    {
+                        "/": "/events/primeday/12"
+                    },
+                    {
+                        "/": "/events/primeday/6"
+                    },
+                    {
+                        "/": "/events/primeday/7"
+                    },
+                    {
+                        "/": "/events/primeday/8"
+                    },
+                    {
+                        "/": "/events/primeday/9"
+                    },
+                    {
+                        "/": "/events/ramadansale"
+                    },
+                    {
+                        "/": "/events/semainepourpetitesenterprises"
+                    },
+                    {
+                        "/": "/events/semanaparapequenasempresas"
+                    },
+                    {
+                        "/": "/events/settimanaperpiccoleimprese"
+                    },
+                    {
+                        "/": "/events/smallbusinessevent"
+                    },
+                    {
+                        "/": "/events/smallbusinessmonth"
+                    },
+                    {
+                        "/": "/events/smallbusinessweek"
+                    },
+                    {
+                        "/": "/events/summersale"
+                    },
+                    {
+                        "/": "/events/vendredifou"
+                    },
+                    {
+                        "/": "/f3/ia/deals"
+                    },
+                    {
+                        "/": "/f3/ia/dp"
+                    },
+                    {
+                        "/": "/f3chat/chat"
+                    },
+                    {
+                        "/": "/fashion"
+                    },
+                    {
+                        "/": "/fashionhub"
+                    },
+                    {
+                        "/": "/fashionsale"
+                    },
+                    {
+                        "/": "/fathersdaydeals"
+                    },
+                    {
+                        "/": "/fcx/myschool/"
+                    },
+                    {
+                        "/": "/fcx/myschool/*"
+                    },
+                    {
+                        "/": "/feedback*"
+                    },
+                    {
+                        "/": "/fetch/checkin/*"
+                    },
+                    {
+                        "/": "/financing"
+                    },
+                    {
+                        "/": "/find"
+                    },
+                    {
+                        "/": "/finds"
+                    },
+                    {
+                        "/": "/finds/*"
+                    },
+                    {
+                        "/": "/fire-tv-hotspot"
+                    },
+                    {
+                        "/": "/fire-tv-hotspot/*"
+                    },
+                    {
+                        "/": "/firetvhotspot"
+                    },
+                    {
+                        "/": "/firetvhotspot/*"
+                    },
+                    {
+                        "/": "/flights"
+                    },
+                    {
+                        "/": "/flights/booking/cancel/*"
+                    },
+                    {
+                        "/": "/flights/booking/resend/*"
+                    },
+                    {
+                        "/": "/flights/policy/*"
+                    },
+                    {
+                        "/": "/flightsapi/external/v1/eticket/*"
+                    },
+                    {
+                        "/": "/fmc/category"
+                    },
+                    {
+                        "/": "/fmc/category/ref=*"
+                    },
+                    {
+                        "/": "/fmc/deals"
+                    },
+                    {
+                        "/": "/fmc/deals/ref=*"
+                    },
+                    {
+                        "/": "/fmc/learn-more"
+                    },
+                    {
+                        "/": "/fmc/learn-more/app"
+                    },
+                    {
+                        "/": "/fmc/m/*"
+                    },
+                    {
+                        "/": "/fmc/storefront"
+                    },
+                    {
+                        "/": "/fmc/storefront/ref=*"
+                    },
+                    {
+                        "/": "/food"
+                    },
+                    {
+                        "/": "/food/c/*"
+                    },
+                    {
+                        "/": "/food/d/*"
+                    },
+                    {
+                        "/": "/food/i/*"
+                    },
+                    {
+                        "/": "/food/m/*"
+                    },
+                    {
+                        "/": "/food/order-summary"
+                    },
+                    {
+                        "/": "/food/search/*"
+                    },
+                    {
+                        "/": "/food/your-orders"
+                    },
+                    {
+                        "/": "/found"
+                    },
+                    {
+                        "/": "/founditonamazon"
+                    },
+                    {
+                        "/": "/foundonamazon"
+                    },
+                    {
+                        "/": "/freshcode"
+                    },
+                    {
+                        "/": "/freshinstore-ssnap/uqr"
+                    },
+                    {
+                        "/": "/freshstore/code"
+                    },
+                    {
+                        "/": "/freshstore/mfa/redirect"
+                    },
+                    {
+                        "/": "/freshstore/order/???-???????-???????"
+                    },
+                    {
+                        "/": "/freshstore/payments/remediate-order/???-???????-???????"
+                    },
+                    {
+                        "/": "/freshstore/receipts/order/???-???????-???????"
+                    },
+                    {
+                        "/": "/freshvisa"
+                    },
+                    {
+                        "/": "/freshvisaholcircular"
+                    },
+                    {
+                        "/": "/freshvisaholdecal"
+                    },
+                    {
+                        "/": "/freshvisaholpostcard"
+                    },
+                    {
+                        "/": "/freshvisainstore"
+                    },
+                    {
+                        "/": "/freshvisapdcircular"
+                    },
+                    {
+                        "/": "/freshvisapdpostcard"
+                    },
+                    {
+                        "/": "/freshvisaposter"
+                    },
+                    {
+                        "/": "/fuse/dlstest/subscriptions/external/offer"
+                    },
+                    {
+                        "/": "/g/*"
+                    },
+                    {
+                        "/": "/game/*"
+                    },
+                    {
+                        "/": "/gc/balance"
+                    },
+                    {
+                        "/": "/gc/bnm/*"
+                    },
+                    {
+                        "/": "/gc/corp/bnm/*"
+                    },
+                    {
+                        "/": "/gc/n/*"
+                    },
+                    {
+                        "/": "/gcx/"
+                    },
+                    {
+                        "/": "/gcx/*"
+                    },
+                    {
+                        "/": "/gcx/*/gfhz"
+                    },
+                    {
+                        "/": "/gcx/*/gfhz/*"
+                    },
+                    {
+                        "/": "/gcx/-/ty/*"
+                    },
+                    {
+                        "/": "/gil/uk/wait"
+                    },
+                    {
+                        "/": "/gil/wait"
+                    },
+                    {
+                        "/": "/go/mfa/redirect"
+                    },
+                    {
+                        "/": "/go/payments/remediate-order/???-???????-???????"
+                    },
+                    {
+                        "/": "/go/receipts/order/???-???????-???????"
+                    },
+                    {
+                        "/": "/gokey/receipts/order/???-???????-???????"
+                    },
+                    {
+                        "/": "/goprimevisa"
+                    },
+                    {
+                        "/": "/gp/../amazonsmile"
+                    },
+                    {
+                        "/": "/gp/../onthego"
+                    },
+                    {
+                        "/": "/gp/??/alm/category"
+                    },
+                    {
+                        "/": "/gp/??/alm/category/ref=*"
+                    },
+                    {
+                        "/": "/gp/??/alm/deals"
+                    },
+                    {
+                        "/": "/gp/??/alm/deals/ref=*"
+                    },
+                    {
+                        "/": "/gp/??/alm/m/*"
+                    },
+                    {
+                        "/": "/gp/??/alm/storefront"
+                    },
+                    {
+                        "/": "/gp/??/alm/storefront/ref=*"
+                    },
+                    {
+                        "/": "/gp/??/fmc/category"
+                    },
+                    {
+                        "/": "/gp/??/fmc/category/ref=*"
+                    },
+                    {
+                        "/": "/gp/??/fmc/deals"
+                    },
+                    {
+                        "/": "/gp/??/fmc/deals/ref=*"
+                    },
+                    {
+                        "/": "/gp/??/fmc/learn-more"
+                    },
+                    {
+                        "/": "/gp/??/fmc/m/*"
+                    },
+                    {
+                        "/": "/gp/??/fmc/storefront"
+                    },
+                    {
+                        "/": "/gp/??/fmc/storefront/ref=*"
+                    },
+                    {
+                        "/": "/gp/aag/*"
+                    },
+                    {
+                        "/": "/gp/adlp/*"
+                    },
+                    {
+                        "/": "/gp/alexa-shopping-list"
+                    },
+                    {
+                        "/": "/gp/alexa-shopping-list*"
+                    },
+                    {
+                        "/": "/gp/alexa-shopping-list/"
+                    },
+                    {
+                        "/": "/gp/alexa-shopping-list/*"
+                    },
+                    {
+                        "/": "/gp/alexa-shopping-pcn"
+                    },
+                    {
+                        "/": "/gp/aw/baby-reg/*"
+                    },
+                    {
+                        "/": "/gp/aw/contact-us/mu-mobile-fallback"
+                    },
+                    {
+                        "/": "/gp/aw/contact-us/mu-mobile-fallback/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/contact-us/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/coupon/*"
+                    },
+                    {
+                        "/": "/gp/aw/coupon/c/*"
+                    },
+                    {
+                        "/": "/gp/aw/help/id=*"
+                    },
+                    {
+                        "/": "/gp/aw/help/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/promotion/landingpage/*"
+                    },
+                    {
+                        "/": "/gp/aw/recs/ys"
+                    },
+                    {
+                        "/": "/gp/aw/registry/wedding/*"
+                    },
+                    {
+                        "/": "/gp/aw/social/swf/*/o=ShareWishlist"
+                    },
+                    {
+                        "/": "/gp/aw/social/swf/*/o=ShareWishlist/ref=*"
+                    },
+                    {
+                        "/": "/gp/aw/ya/or"
+                    },
+                    {
+                        "/": "/gp/aw/ya/or/ref=*"
+                    },
+                    {
+                        "/": "/gp/aws/*"
+                    },
+                    {
+                        "/": "/gp/baby-reg"
+                    },
+                    {
+                        "/": "/gp/baby-reg/*"
+                    },
+                    {
+                        "/": "/gp/bbp/ref=*"
+                    },
+                    {
+                        "/": "/gp/bestsellers"
+                    },
+                    {
+                        "/": "/gp/cart/view.html"
+                    },
+                    {
+                        "/": "/gp/cart/view.html/ref=*"
+                    },
+                    {
+                        "/": "/gp/checklist/*"
+                    },
+                    {
+                        "/": "/gp/coupon/*"
+                    },
+                    {
+                        "/": "/gp/coupon/c/*"
+                    },
+                    {
+                        "/": "/gp/coupons"
+                    },
+                    {
+                        "/": "/gp/css/gc/*"
+                    },
+                    {
+                        "/": "/gp/css/gc/payment"
+                    },
+                    {
+                        "/": "/gp/css/homepage.html"
+                    },
+                    {
+                        "/": "/gp/css/notifications"
+                    },
+                    {
+                        "/": "/gp/css/order-details"
+                    },
+                    {
+                        "/": "/gp/css/order-details/ref=*"
+                    },
+                    {
+                        "/": "/gp/css/order-history"
+                    },
+                    {
+                        "/": "/gp/css/order-history/ref=*"
+                    },
+                    {
+                        "/": "/gp/css/shiptrack/view.html"
+                    },
+                    {
+                        "/": "/gp/css/shiptrack/view.html/ref=*"
+                    },
+                    {
+                        "/": "/gp/css/summary/edit.html"
+                    },
+                    {
+                        "/": "/gp/css/summary/edit.html/ref=*"
+                    },
+                    {
+                        "/": "/gp/css/summary/print.html"
+                    },
+                    {
+                        "/": "/gp/css/your-account-access"
+                    },
+                    {
+                        "/": "/gp/css/your-orders-access"
+                    },
+                    {
+                        "/": "/gp/css/your-orders-access/ref=*"
+                    },
+                    {
+                        "/": "/gp/customer-forum/-/Tx*"
+                    },
+                    {
+                        "/": "/gp/customer-forum/Fx*/Tx*"
+                    },
+                    {
+                        "/": "/gp/customer-reviews/*"
+                    },
+                    {
+                        "/": "/gp/customer-reviews/review-your-purchases/dp"
+                    },
+                    {
+                        "/": "/gp/digital/fiona/manage"
+                    },
+                    {
+                        "/": "/gp/electronicsgiftfinder"
+                    },
+                    {
+                        "/": "/gp/fetch/checkin/*"
+                    },
+                    {
+                        "/": "/gp/gc/print"
+                    },
+                    {
+                        "/": "/gp/goldbox/all-deals"
+                    },
+                    {
+                        "/": "/gp/goldbox/all-deals/ref=*"
+                    },
+                    {
+                        "/": "/gp/gss/*"
+                    },
+                    {
+                        "/": "/gp/help/contact-us/general-questions.htm"
+                    },
+                    {
+                        "/": "/gp/help/customer/contact-us"
+                    },
+                    {
+                        "/": "/gp/help/customer/display.html"
+                    },
+                    {
+                        "/": "/gp/help/customer/display.html/*"
+                    },
+                    {
+                        "/": "/gp/holidaytoylist"
+                    },
+                    {
+                        "/": "/gp/mpc/*"
+                    },
+                    {
+                        "/": "/gp/new-releases/"
+                    },
+                    {
+                        "/": "/gp/pantry/*"
+                    },
+                    {
+                        "/": "/gp/prime/pipeline/youngadult"
+                    },
+                    {
+                        "/": "/gp/primecentral"
+                    },
+                    {
+                        "/": "/gp/primecentral/*"
+                    },
+                    {
+                        "/": "/gp/promotion/*"
+                    },
+                    {
+                        "/": "/gp/pwain/process-payable-token"
+                    },
+                    {
+                        "/": "/gp/registry/giftlist/*"
+                    },
+                    {
+                        "/": "/gp/registry/search"
+                    },
+                    {
+                        "/": "/gp/registry/search/ref=*"
+                    },
+                    {
+                        "/": "/gp/registry/wedding/*"
+                    },
+                    {
+                        "/": "/gp/review/create-review"
+                    },
+                    {
+                        "/": "/gp/review/create-review/ref=*"
+                    },
+                    {
+                        "/": "/gp/review/review-your-purchases"
+                    },
+                    {
+                        "/": "/gp/review/review-your-purchases/ref=*"
+                    },
+                    {
+                        "/": "/gp/subscribe-and-save/*"
+                    },
+                    {
+                        "/": "/gp/subscribe-and-save/details/index.html"
+                    },
+                    {
+                        "/": "/gp/subscribe-and-save/manage"
+                    },
+                    {
+                        "/": "/gp/subscribe-and-save/myd/cancelSubscription"
+                    },
+                    {
+                        "/": "/gp/subscribe-and-save/myd/subscription"
+                    },
+                    {
+                        "/": "/gp/subscribe-and-save/softconvert"
+                    },
+                    {
+                        "/": "/gp/sva/addmoney"
+                    },
+                    {
+                        "/": "/gp/sva/dashboard"
+                    },
+                    {
+                        "/": "/gp/video/search/*"
+                    },
+                    {
+                        "/": "/gp/wallet"
+                    },
+                    {
+                        "/": "/gp/your-account/gateway/orders"
+                    },
+                    {
+                        "/": "/gp/your-account/gateway/orders/ref=*"
+                    },
+                    {
+                        "/": "/gp/your-account/order-details"
+                    },
+                    {
+                        "/": "/gp/your-account/order-details/ref=*"
+                    },
+                    {
+                        "/": "/gp/your-account/order-history"
+                    },
+                    {
+                        "/": "/gp/your-account/order-history/item"
+                    },
+                    {
+                        "/": "/gp/your-account/order-history/item/ref=*"
+                    },
+                    {
+                        "/": "/gp/your-account/order-history/ref=*"
+                    },
+                    {
+                        "/": "/gp/your-account/ship-track"
+                    },
+                    {
+                        "/": "/gp/your-account/ship-track/event-list"
+                    },
+                    {
+                        "/": "/gp/your-account/ship-track/event-list/ref=*"
+                    },
+                    {
+                        "/": "/gp/your-account/ship-track/item-list"
+                    },
+                    {
+                        "/": "/gp/your-account/ship-track/item-list/ref=*"
+                    },
+                    {
+                        "/": "/gp/your-account/ship-track/ref=*"
+                    },
+                    {
+                        "/": "/gp/yourstore"
+                    },
+                    {
+                        "/": "/h/your-rewards"
+                    },
+                    {
+                        "/": "/h/your-rewards-cashback"
+                    },
+                    {
+                        "/": "/halloweendeals"
+                    },
+                    {
+                        "/": "/hatsuuri"
+                    },
+                    {
+                        "/": "/hdil"
+                    },
+                    {
+                        "/": "/help"
+                    },
+                    {
+                        "/": "/hfc/*"
+                    },
+                    {
+                        "/": "/hfctl-api/moviesapi/ticketing/api/v1/download/*"
+                    },
+                    {
+                        "/": "/hfctl-api/moviesapi/ticketing/api/v1/qr/*"
+                    },
+                    {
+                        "/": "/highpoints"
+                    },
+                    {
+                        "/": "/howdoilook"
+                    },
+                    {
+                        "/": "/hp/abc/account"
+                    },
+                    {
+                        "/": "/hp/abc/consent"
+                    },
+                    {
+                        "/": "/hp/abc/loading"
+                    },
+                    {
+                        "/": "/hp/na-gil/application/*/verify"
+                    },
+                    {
+                        "/": "/hp/shopwithpoints/standalone/processing"
+                    },
+                    {
+                        "/": "/hz/charitylist/homepage"
+                    },
+                    {
+                        "/": "/hz/charitylist/lists/*"
+                    },
+                    {
+                        "/": "/hz/charitylist/listsearch/category/*"
+                    },
+                    {
+                        "/": "/hz/charitylist/ls/*"
+                    },
+                    {
+                        "/": "/hz/contact-us"
+                    },
+                    {
+                        "/": "/hz/contact-us/"
+                    },
+                    {
+                        "/": "/hz/contact-us/ref=*"
+                    },
+                    {
+                        "/": "/hz/diver/productvariants"
+                    },
+                    {
+                        "/": "/hz/ip/comparePrimePlans"
+                    },
+                    {
+                        "/": "/hz/wishlist/dl/*"
+                    },
+                    {
+                        "/": "/hz/wishlist/inf/*"
+                    },
+                    {
+                        "/": "/hz/wishlist/ls/????????????"
+                    },
+                    {
+                        "/": "/hz/wishlist/ls/?????????????"
+                    },
+                    {
+                        "/": "/hz/wishlist/ls/lol"
+                    },
+                    {
+                        "/": "/hz/wishlist/ls/lol/ref=*"
+                    },
+                    {
+                        "/": "/inapayrewards/*"
+                    },
+                    {
+                        "/": "/influencers/*"
+                    },
+                    {
+                        "/": "/inspire"
+                    },
+                    {
+                        "/": "/instantPickup"
+                    },
+                    {
+                        "/": "/instantPickup/r/*"
+                    },
+                    {
+                        "/": "/instantpickup"
+                    },
+                    {
+                        "/": "/instantpickup/r/*"
+                    },
+                    {
+                        "/": "/instorecode"
+                    },
+                    {
+                        "/": "/inventory"
+                    },
+                    {
+                        "/": "/iss/credit/rewardscardmember/"
+                    },
+                    {
+                        "/": "/iss/credit/rewardsoffers"
+                    },
+                    {
+                        "/": "/iss/globalinstallments/checkout/app"
+                    },
+                    {
+                        "/": "/iss/globalinstallments/payselect/app"
+                    },
+                    {
+                        "/": "/iss/shopwithpoints/account/redirectionEnroll/app"
+                    },
+                    {
+                        "/": "/ive"
+                    },
+                    {
+                        "/": "/julyfourthdeals"
+                    },
+                    {
+                        "/": "/key-delivery"
+                    },
+                    {
+                        "/": "/key-delivery-alpha"
+                    },
+                    {
+                        "/": "/key-delivery-alpha/delivery-instructions"
+                    },
+                    {
+                        "/": "/key-delivery-alpha/link-account"
+                    },
+                    {
+                        "/": "/key-delivery-sso-staging"
+                    },
+                    {
+                        "/": "/key-delivery-staging"
+                    },
+                    {
+                        "/": "/key-delivery-staging/delivery-instructions"
+                    },
+                    {
+                        "/": "/key-delivery-staging/link-account"
+                    },
+                    {
+                        "/": "/key-delivery-staging/set-up"
+                    },
+                    {
+                        "/": "/key-delivery/delivery-instructions"
+                    },
+                    {
+                        "/": "/key-delivery/link-account"
+                    },
+                    {
+                        "/": "/key-delivery/set-up"
+                    },
+                    {
+                        "/": "/key-delivery/sso"
+                    },
+                    {
+                        "/": "/key-delivery/sso/settings"
+                    },
+                    {
+                        "/": "/ksx/prb/*"
+                    },
+                    {
+                        "/": "/ksx/shopping/*"
+                    },
+                    {
+                        "/": "/ksx/survey/*"
+                    },
+                    {
+                        "/": "/l/*"
+                    },
+                    {
+                        "/": "/l/*/ref=*"
+                    },
+                    {
+                        "/": "/l/23483471011"
+                    },
+                    {
+                        "/": "/lastminutedeals"
+                    },
+                    {
+                        "/": "/legal_information_mobile"
+                    },
+                    {
+                        "/": "/leonardi*"
+                    },
+                    {
+                        "/": "/live"
+                    },
+                    {
+                        "/": "/live/broadcast/*"
+                    },
+                    {
+                        "/": "/live/browse/*"
+                    },
+                    {
+                        "/": "/live/channel/*"
+                    },
+                    {
+                        "/": "/live/video/*"
+                    },
+                    {
+                        "/": "/livecatamaran/broadcast/*"
+                    },
+                    {
+                        "/": "/looks"
+                    },
+                    {
+                        "/": "/losmasvendidos"
+                    },
+                    {
+                        "/": "/lux/redirect"
+                    },
+                    {
+                        "/": "/luxury/chat"
+                    },
+                    {
+                        "/": "/luxurystores"
+                    },
+                    {
+                        "/": "/luxurystores/*"
+                    },
+                    {
+                        "/": "/ma/deliveryProfilePage*"
+                    },
+                    {
+                        "/": "/made-for-you"
+                    },
+                    {
+                        "/": "/made-for-you/mpw"
+                    },
+                    {
+                        "/": "/made-for-you/size-you"
+                    },
+                    {
+                        "/": "/makingthecutstore"
+                    },
+                    {
+                        "/": "/mbpfeedback"
+                    },
+                    {
+                        "/": "/mc"
+                    },
+                    {
+                        "/": "/mc/*"
+                    },
+                    {
+                        "/": "/md/*"
+                    },
+                    {
+                        "/": "/message-us"
+                    },
+                    {
+                        "/": "/messaging/*"
+                    },
+                    {
+                        "/": "/mfy-remake/adjust"
+                    },
+                    {
+                        "/": "/mfy-remake/exchange"
+                    },
+                    {
+                        "/": "/mfy-remake/orders"
+                    },
+                    {
+                        "/": "/micuenta"
+                    },
+                    {
+                        "/": "/miniTV/detail"
+                    },
+                    {
+                        "/": "/minitv"
+                    },
+                    {
+                        "/": "/minitv/*"
+                    },
+                    {
+                        "/": "/minitv/detail"
+                    },
+                    {
+                        "/": "/mispedidos"
+                    },
+                    {
+                        "/": "/mission/mission-control"
+                    },
+                    {
+                        "/": "/moments/deeplink/*"
+                    },
+                    {
+                        "/": "/monthlydealevent"
+                    },
+                    {
+                        "/": "/mothersdaydeals"
+                    },
+                    {
+                        "/": "/movie-tickets"
+                    },
+                    {
+                        "/": "/mpc/*"
+                    },
+                    {
+                        "/": "/mpcx"
+                    },
+                    {
+                        "/": "/mu-deep-link"
+                    },
+                    {
+                        "/": "/mykps"
+                    },
+                    {
+                        "/": "/mypoints"
+                    },
+                    {
+                        "/": "/mypoints/*"
+                    },
+                    {
+                        "/": "/mytv"
+                    },
+                    {
+                        "/": "/notificaciones"
+                    },
+                    {
+                        "/": "/notificacoes"
+                    },
+                    {
+                        "/": "/notification_hub"
+                    },
+                    {
+                        "/": "/notifications"
+                    },
+                    {
+                        "/": "/odinLockerTest"
+                    },
+                    {
+                        "/": "/ofertas"
+                    },
+                    {
+                        "/": "/offlineaufladen"
+                    },
+                    {
+                        "/": "/offlineaufladen/*"
+                    },
+                    {
+                        "/": "/offresexceptionnelles"
+                    },
+                    {
+                        "/": "/offtocollege"
+                    },
+                    {
+                        "/": "/okuladonus"
+                    },
+                    {
+                        "/": "/onthego"
+                    },
+                    {
+                        "/": "/orderahead"
+                    },
+                    {
+                        "/": "/orderdetails"
+                    },
+                    {
+                        "/": "/orders"
+                    },
+                    {
+                        "/": "/orders/ref=*"
+                    },
+                    {
+                        "/": "/osm21_organicigstory_"
+                    },
+                    {
+                        "/": "/outfitcompare"
+                    },
+                    {
+                        "/": "/outfitcompare/ref=*"
+                    },
+                    {
+                        "/": "/packaging-free"
+                    },
+                    {
+                        "/": "/packaging-free-staging"
+                    },
+                    {
+                        "/": "/paperdoll"
+                    },
+                    {
+                        "/": "/payment/upi/*"
+                    },
+                    {
+                        "/": "/pcr/*"
+                    },
+                    {
+                        "/": "/pedidoscancelados"
+                    },
+                    {
+                        "/": "/personalization-customer-preferences/customerPrefOptOut*"
+                    },
+                    {
+                        "/": "/phone-authentication"
+                    },
+                    {
+                        "/": "/pickup/checkin"
+                    },
+                    {
+                        "/": "/pickup/checkin/order"
+                    },
+                    {
+                        "/": "/placecards"
+                    },
+                    {
+                        "/": "/pndtxns"
+                    },
+                    {
+                        "/": "/pointupcampaign"
+                    },
+                    {
+                        "/": "/potter-ar"
+                    },
+                    {
+                        "/": "/prime/offer/*/*/thank-you"
+                    },
+                    {
+                        "/": "/primealisverisfestivali"
+                    },
+                    {
+                        "/": "/primeday"
+                    },
+                    {
+                        "/": "/primeday/*"
+                    },
+                    {
+                        "/": "/primefood"
+                    },
+                    {
+                        "/": "/primefood/click2call"
+                    },
+                    {
+                        "/": "/primefood/d/*"
+                    },
+                    {
+                        "/": "/primefood/guide-banner"
+                    },
+                    {
+                        "/": "/primefood/ingress"
+                    },
+                    {
+                        "/": "/primefood/m/*"
+                    },
+                    {
+                        "/": "/primefood/order-summary"
+                    },
+                    {
+                        "/": "/primefood/your-orders"
+                    },
+                    {
+                        "/": "/primeinsider"
+                    },
+                    {
+                        "/": "/primeinsider/*"
+                    },
+                    {
+                        "/": "/primerx"
+                    },
+                    {
+                        "/": "/primerx/*"
+                    },
+                    {
+                        "/": "/primesavings"
+                    },
+                    {
+                        "/": "/primetrybeforeyoubuy"
+                    },
+                    {
+                        "/": "/primevisa100"
+                    },
+                    {
+                        "/": "/primevisa150"
+                    },
+                    {
+                        "/": "/primevisa200"
+                    },
+                    {
+                        "/": "/primewardrobe"
+                    },
+                    {
+                        "/": "/privacy_policy_mobile"
+                    },
+                    {
+                        "/": "/product-reviews/*"
+                    },
+                    {
+                        "/": "/progress-tracker/package"
+                    },
+                    {
+                        "/": "/progress-tracker/package/*"
+                    },
+                    {
+                        "/": "/promo/*"
+                    },
+                    {
+                        "/": "/promocode/*"
+                    },
+                    {
+                        "/": "/promotion/psp/*"
+                    },
+                    {
+                        "/": "/promotions/brands/*"
+                    },
+                    {
+                        "/": "/ps/promotions/*"
+                    },
+                    {
+                        "/": "/purchase-reminders"
+                    },
+                    {
+                        "/": "/pw-learnmore"
+                    },
+                    {
+                        "/": "/pwain/eps/cx/dl/redirect/initiatePayment"
+                    },
+                    {
+                        "/": "/querent"
+                    },
+                    {
+                        "/": "/ratemyexperience/fresh"
+                    },
+                    {
+                        "/": "/ratemyexperience/fresh/landing"
+                    },
+                    {
+                        "/": "/ratemyexperience/fresh/landing/submit"
+                    },
+                    {
+                        "/": "/ratemyexperience/fresh/submit"
+                    },
+                    {
+                        "/": "/recharges/*"
+                    },
+                    {
+                        "/": "/redeem"
+                    },
+                    {
+                        "/": "/refer-and-earn/gc"
+                    },
+                    {
+                        "/": "/refer-and-earn/gp"
+                    },
+                    {
+                        "/": "/refer-and-earn/seller-referral"
+                    },
+                    {
+                        "/": "/registries"
+                    },
+                    {
+                        "/": "/registries/*"
+                    },
+                    {
+                        "/": "/registry/baby/*"
+                    },
+                    {
+                        "/": "/registry/wedding/*"
+                    },
+                    {
+                        "/": "/remotekyc"
+                    },
+                    {
+                        "/": "/remotekyc/interstitial"
+                    },
+                    {
+                        "/": "/repeatitems"
+                    },
+                    {
+                        "/": "/restaurants"
+                    },
+                    {
+                        "/": "/restaurants/bp"
+                    },
+                    {
+                        "/": "/restaurants/d/??????????"
+                    },
+                    {
+                        "/": "/restaurants/dailydish"
+                    },
+                    {
+                        "/": "/restaurants/dailydish/*"
+                    },
+                    {
+                        "/": "/restaurants/order-status/*"
+                    },
+                    {
+                        "/": "/restaurants/order-summary"
+                    },
+                    {
+                        "/": "/restaurants/r/landing/*"
+                    },
+                    {
+                        "/": "/returns"
+                    },
+                    {
+                        "/": "/returns/cart/*"
+                    },
+                    {
+                        "/": "/returns/label/*"
+                    },
+                    {
+                        "/": "/returns/order/*"
+                    },
+                    {
+                        "/": "/review/create-review"
+                    },
+                    {
+                        "/": "/review/create-review/ref=*"
+                    },
+                    {
+                        "/": "/review/review-your-purchases"
+                    },
+                    {
+                        "/": "/review/review-your-purchases/listing"
+                    },
+                    {
+                        "/": "/review/review-your-purchases/listing*"
+                    },
+                    {
+                        "/": "/review/review-your-purchases/ref=*"
+                    },
+                    {
+                        "/": "/rewards/*"
+                    },
+                    {
+                        "/": "/ricaricaincassa"
+                    },
+                    {
+                        "/": "/ricaricaincassa/*"
+                    },
+                    {
+                        "/": "/rnphotoeditor"
+                    },
+                    {
+                        "/": "/rpe/*"
+                    },
+                    {
+                        "/": "/saldaodocliente"
+                    },
+                    {
+                        "/": "/schooldeals"
+                    },
+                    {
+                        "/": "/semainepourpetitesenterprises"
+                    },
+                    {
+                        "/": "/semanadoconsumidor"
+                    },
+                    {
+                        "/": "/semanaparapequenasempresas"
+                    },
+                    {
+                        "/": "/settimanaperpiccoleimprese"
+                    },
+                    {
+                        "/": "/seuspedidos"
+                    },
+                    {
+                        "/": "/shop/*"
+                    },
+                    {
+                        "/": "/shopdiscover"
+                    },
+                    {
+                        "/": "/shopping-hub/pp/*"
+                    },
+                    {
+                        "/": "/shops/*"
+                    },
+                    {
+                        "/": "/shopthedrop"
+                    },
+                    {
+                        "/": "/shopthelook"
+                    },
+                    {
+                        "/": "/shopwithalexa"
+                    },
+                    {
+                        "/": "/slc/mpw/listProfiles"
+                    },
+                    {
+                        "/": "/slp/*/???????????????"
+                    },
+                    {
+                        "/": "/slp/???????????????"
+                    },
+                    {
+                        "/": "/smallbusinessevent"
+                    },
+                    {
+                        "/": "/smallbusinessmonth"
+                    },
+                    {
+                        "/": "/smallbusinessweek"
+                    },
+                    {
+                        "/": "/smart_reorder_devices/dart_device_list"
+                    },
+                    {
+                        "/": "/smb_primeday2021"
+                    },
+                    {
+                        "/": "/smb_primeday2021_deal"
+                    },
+                    {
+                        "/": "/spark"
+                    },
+                    {
+                        "/": "/spark/*"
+                    },
+                    {
+                        "/": "/spr/returns/cart"
+                    },
+                    {
+                        "/": "/spr/returns/feedback"
+                    },
+                    {
+                        "/": "/spr/returns/label/*"
+                    },
+                    {
+                        "/": "/spr/returns/order/*"
+                    },
+                    {
+                        "/": "/store-analytics"
+                    },
+                    {
+                        "/": "/storecode/payments/remediate-order/*"
+                    },
+                    {
+                        "/": "/storefront"
+                    },
+                    {
+                        "/": "/storefronts"
+                    },
+                    {
+                        "/": "/stores/*"
+                    },
+                    {
+                        "/": "/stylebyalexa"
+                    },
+                    {
+                        "/": "/stylefeed"
+                    },
+                    {
+                        "/": "/stylehub"
+                    },
+                    {
+                        "/": "/stylesnap"
+                    },
+                    {
+                        "/": "/suaconta"
+                    },
+                    {
+                        "/": "/supersaver"
+                    },
+                    {
+                        "/": "/tbyb/buyout"
+                    },
+                    {
+                        "/": "/tbyb/buyout/thankyou"
+                    },
+                    {
+                        "/": "/tbyb/huc"
+                    },
+                    {
+                        "/": "/tbyb/ps/cart"
+                    },
+                    {
+                        "/": "/tbyb/ps/cart/*"
+                    },
+                    {
+                        "/": "/tbyb/ps/program"
+                    },
+                    {
+                        "/": "/tbyb/ps/program/*"
+                    },
+                    {
+                        "/": "/tbyb/ps/survey"
+                    },
+                    {
+                        "/": "/teenshop"
+                    },
+                    {
+                        "/": "/teenshop/ref=*"
+                    },
+                    {
+                        "/": "/test-aasa"
+                    },
+                    {
+                        "/": "/testrcs"
+                    },
+                    {
+                        "/": "/testrule"
+                    },
+                    {
+                        "/": "/thedrop"
+                    },
+                    {
+                        "/": "/thedrop/*"
+                    },
+                    {
+                        "/": "/thedropsignup"
+                    },
+                    {
+                        "/": "/tnfshop"
+                    },
+                    {
+                        "/": "/topupinstore"
+                    },
+                    {
+                        "/": "/topupinstore/*"
+                    },
+                    {
+                        "/": "/train-tickets"
+                    },
+                    {
+                        "/": "/train-tickets/*"
+                    },
+                    {
+                        "/": "/train-tickets/booking/resend/*"
+                    },
+                    {
+                        "/": "/train-tickets/cancel/selection/*"
+                    },
+                    {
+                        "/": "/train-tickets/cancellation-policy/*"
+                    },
+                    {
+                        "/": "/train-tickets/order-review/*"
+                    },
+                    {
+                        "/": "/train-tickets/pnr/*"
+                    },
+                    {
+                        "/": "/train-tickets/route/*/*/*/*"
+                    },
+                    {
+                        "/": "/train-tickets/search/*/*/*"
+                    },
+                    {
+                        "/": "/train-tickets/typ/*"
+                    },
+                    {
+                        "/": "/treasuretruck"
+                    },
+                    {
+                        "/": "/ts/bill"
+                    },
+                    {
+                        "/": "/ts/bill/*"
+                    },
+                    {
+                        "/": "/ts/promoter"
+                    },
+                    {
+                        "/": "/ts/promoter-incentive"
+                    },
+                    {
+                        "/": "/tstore"
+                    },
+                    {
+                        "/": "/ttgo"
+                    },
+                    {
+                        "/": "/uff/your-account/order-details"
+                    },
+                    {
+                        "/": "/uff/your-account/order-details/ref=*"
+                    },
+                    {
+                        "/": "/upi/pending-transactions"
+                    },
+                    {
+                        "/": "/uvs/verify/partnerconsentflow/*"
+                    },
+                    {
+                        "/": "/vdp/????????????????????????????????"
+                    },
+                    {
+                        "/": "/vendredifou"
+                    },
+                    {
+                        "/": "/video-image-provider"
+                    },
+                    {
+                        "/": "/visa"
+                    },
+                    {
+                        "/": "/visainstore"
+                    },
+                    {
+                        "/": "/visainstore1"
+                    },
+                    {
+                        "/": "/visainstore10"
+                    },
+                    {
+                        "/": "/visainstore11"
+                    },
+                    {
+                        "/": "/visainstore12"
+                    },
+                    {
+                        "/": "/visainstore13"
+                    },
+                    {
+                        "/": "/visainstore14"
+                    },
+                    {
+                        "/": "/visainstore15"
+                    },
+                    {
+                        "/": "/visainstore16"
+                    },
+                    {
+                        "/": "/visainstore17"
+                    },
+                    {
+                        "/": "/visainstore18"
+                    },
+                    {
+                        "/": "/visainstore19"
+                    },
+                    {
+                        "/": "/visainstore2"
+                    },
+                    {
+                        "/": "/visainstore20"
+                    },
+                    {
+                        "/": "/visainstore21"
+                    },
+                    {
+                        "/": "/visainstore22"
+                    },
+                    {
+                        "/": "/visainstore23"
+                    },
+                    {
+                        "/": "/visainstore24"
+                    },
+                    {
+                        "/": "/visainstore25"
+                    },
+                    {
+                        "/": "/visainstore26"
+                    },
+                    {
+                        "/": "/visainstore27"
+                    },
+                    {
+                        "/": "/visainstore28"
+                    },
+                    {
+                        "/": "/visainstore29"
+                    },
+                    {
+                        "/": "/visainstore3"
+                    },
+                    {
+                        "/": "/visainstore30"
+                    },
+                    {
+                        "/": "/visainstore31"
+                    },
+                    {
+                        "/": "/visainstore32"
+                    },
+                    {
+                        "/": "/visainstore33"
+                    },
+                    {
+                        "/": "/visainstore34"
+                    },
+                    {
+                        "/": "/visainstore35"
+                    },
+                    {
+                        "/": "/visainstore36"
+                    },
+                    {
+                        "/": "/visainstore37"
+                    },
+                    {
+                        "/": "/visainstore38"
+                    },
+                    {
+                        "/": "/visainstore39"
+                    },
+                    {
+                        "/": "/visainstore4"
+                    },
+                    {
+                        "/": "/visainstore40"
+                    },
+                    {
+                        "/": "/visainstore41"
+                    },
+                    {
+                        "/": "/visainstore42"
+                    },
+                    {
+                        "/": "/visainstore43"
+                    },
+                    {
+                        "/": "/visainstore44"
+                    },
+                    {
+                        "/": "/visainstore45"
+                    },
+                    {
+                        "/": "/visainstore46"
+                    },
+                    {
+                        "/": "/visainstore47"
+                    },
+                    {
+                        "/": "/visainstore48"
+                    },
+                    {
+                        "/": "/visainstore49"
+                    },
+                    {
+                        "/": "/visainstore5"
+                    },
+                    {
+                        "/": "/visainstore50"
+                    },
+                    {
+                        "/": "/visainstore51"
+                    },
+                    {
+                        "/": "/visainstore52"
+                    },
+                    {
+                        "/": "/visainstore53"
+                    },
+                    {
+                        "/": "/visainstore54"
+                    },
+                    {
+                        "/": "/visainstore55"
+                    },
+                    {
+                        "/": "/visainstore56"
+                    },
+                    {
+                        "/": "/visainstore57"
+                    },
+                    {
+                        "/": "/visainstore58"
+                    },
+                    {
+                        "/": "/visainstore59"
+                    },
+                    {
+                        "/": "/visainstore6"
+                    },
+                    {
+                        "/": "/visainstore60"
+                    },
+                    {
+                        "/": "/visainstore61"
+                    },
+                    {
+                        "/": "/visainstore62"
+                    },
+                    {
+                        "/": "/visainstore63"
+                    },
+                    {
+                        "/": "/visainstore7"
+                    },
+                    {
+                        "/": "/visainstore8"
+                    },
+                    {
+                        "/": "/visainstore9"
+                    },
+                    {
+                        "/": "/visapostcard"
+                    },
+                    {
+                        "/": "/visaprime"
+                    },
+                    {
+                        "/": "/visashoppingbag"
+                    },
+                    {
+                        "/": "/vod-study"
+                    },
+                    {
+                        "/": "/vod-study/*"
+                    },
+                    {
+                        "/": "/vto-social-share"
+                    },
+                    {
+                        "/": "/wealth/explore"
+                    },
+                    {
+                        "/": "/wealth/partner/response"
+                    },
+                    {
+                        "/": "/wedding"
+                    },
+                    {
+                        "/": "/wedding/*"
+                    },
+                    {
+                        "/": "/wfm-store-code"
+                    },
+                    {
+                        "/": "/wfmvisa"
+                    },
+                    {
+                        "/": "/wfmvisainstore"
+                    },
+                    {
+                        "/": "/wfmvisainstoresample"
+                    },
+                    {
+                        "/": "/whatshouldiwear"
+                    },
+                    {
+                        "/": "/whitefriday"
+                    },
+                    {
+                        "/": "/wholefoods/email"
+                    },
+                    {
+                        "/": "/wholefoodsapp/prime-code"
+                    },
+                    {
+                        "/": "/wholefoodsdeals"
+                    },
+                    {
+                        "/": "/wingsfinancial"
+                    },
+                    {
+                        "/": "/wizard/*"
+                    },
+                    {
+                        "/": "/wsiw"
+                    },
+                    {
+                        "/": "/yms"
+                    },
+                    {
+                        "/": "/your-account"
+                    },
+                    {
+                        "/": "/yourfanshop*"
+                    },
+                    {
+                        "/": "/yourorders"
+                    }
+                ],
+                "appIDs": [
+                    "94KV3E626L.com.amazon.Amazon",
+                    "A78H8C55MT.com.amazon.Amazon.dev",
+                    "5F4A8FGMM7.com.amazon.Amazon.Enterprise",
+                    "94KV3E626L.com.amazon.Amazon.development"
+                ]
+            },
+            {
+                "components": [],
+                "appIDs": [
+                    "QH9Y2868E6.com.amazon.AmazonCN.dev",
+                    "5F4A8FGMM7.com.amazon.AmazonUK.Enterprise",
+                    "5F4A8FGMM7.com.amazon.AmazonJP.Enterprise",
+                    "5F4A8FGMM7.com.amazon.AmazonFR.Enterprise",
+                    "5F4A8FGMM7.com.amazon.AmazonDE.Enterprise",
+                    "5F4A8FGMM7.com.amazon.AmazonCN.Enterprise"
+                ]
+            },
+            {
+                "components": [
+                    {
+                        "/": "/photos/family/"
+                    },
+                    {
+                        "/": "/photos/all/"
+                    },
+                    {
+                        "/": "/photos/albums/"
+                    },
+                    {
+                        "/": "/photos/people/"
+                    },
+                    {
+                        "/": "/photos/places/"
+                    },
+                    {
+                        "/": "/photos/settings/"
+                    },
+                    {
+                        "/": "/photos/groups/"
+                    },
+                    {
+                        "/": "/photos/createAlbum/"
+                    },
+                    {
+                        "/": "/photos/thisDay/"
+                    },
+                    {
+                        "/": "/photos/more/"
+                    },
+                    {
+                        "/": "/photos/groups/share/*"
+                    },
+                    {
+                        "/": "/photos/devicepersonalization/"
+                    }
+                ],
+                "appIDs": [
+                    "J7P34ALZ5R.com.amazon.CloudDrivePhotos",
+                    "529Z9TAB94.com.amazon.CloudDrivePhotos.dev"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "94KV3E626L.com.amazon.MAPiOSLibSampleApp",
+            "94KV3E626L.com.amazon.Amazon",
+            "A78H8C55MT.com.amazon.Amazon.dev",
+            "5F4A8FGMM7.com.amazon.Amazon.Enterprise",
+            "94KV3E626L.com.amazon.Amazon.development",
+            "94KV3E626L.com.amazon.AmazonIN",
+            "5F4A8FGMM7.com.amazon.AmazonIN.Enterprise",
+            "F83784AFC7.com.amazon.AmazonUK",
+            "5F4A8FGMM7.com.amazon.AmazonUK.Enterprise",
+            "3C5546Z8VG.com.amazon.AmazonCN",
+            "QH9Y2868E6.com.amazon.AmazonCN.dev",
+            "5F4A8FGMM7.com.amazon.AmazonCN.Enterprise",
+            "F83784AFC7.com.amazon.AmazonDE",
+            "5F4A8FGMM7.com.amazon.AmazonDE.Enterprise",
+            "A78H8C55MT.com.amazon.AmazonFR",
+            "5F4A8FGMM7.com.amazon.AmazonFR.Enterprise",
+            "J7P34ALZ5R.com.amazon.AmazonJP",
+            "5F4A8FGMM7.com.amazon.AmazonJP.Enterprise",
+            "YSQE3F88RR.com.audible.arctic",
+            "J7P34ALZ5R.com.amazon.Now",
+            "5F4A8FGMM7.com.amazon.Now.Enterprise",
+            "94KV3E626L.com.amazon.Now.dev",
+            "94KV3E626L.com.amazon.Hendrix",
+            "AZVF44667G.com.amazon.HendrixEnterprise",
+            "94KV3E626L.com.amazon.phseven",
+            "AZVF44667G.com.amazon.phseven.enterprise",
+            "5F4A8FGMM7.com.amazon.LassenBeta",
+            "5F4A8FGMM7.com.amazon.Lassenea",
+            "QP4U8H62JL.com.amazon.LassenDev",
+            "J7P34ALZ5R.com.amazon.Lassen",
+            "E39XYEAA8P.com.amazon.mp3.CloudPlayer",
+            "J7P34ALZ5R.com.amazon.mp3.AmazonCloudPlayer",
+            "5WD9C99DFM.com.audible.iphone",
+            "YSQE3F88RR.com.audible.ios.enterprise",
+            "AZVF44667G.com.amazon.list-beta",
+            "94KV3E626L.com.amazon.Henry",
+            "94KV3E626L.com.amazon.freetime.FreeTime",
+            "94KV3E626L.com.amazon.freetime.FreeTime.Beta",
+            "AZVF44667G.com.amazon.AlexaSdlSampleApp",
+            "AZVF44667G.com.amazon.AlexaAutomotive-Ford",
+            "94KV3E626L.com.amazon.AlexaAutomotive",
+            "J7P34ALZ5R.com.amazon.aiv.AIVApp",
+            "LVTJL52RRZ.com.amazon.aiv.AIVApp.beta",
+            "9734J427D3.com.amazon.aiv.AIVApp.development",
+            "94KV3E626L.com.amazon.firetv.remote",
+            "AZVF44667G.com.amazon.firetv.remote.alpha",
+            "AZVF44667G.com.amazon.firetv.remote.beta",
+            "6PHCXY26J9.com.amazon.bison.dev",
+            "M7YPJLVFLJ.com.wholefoods.WholeFoods",
+            "AZVF44667G.com.amazon.borealisiOSEnterprise",
+            "94KV3E626L.com.amazon.borealisiOS",
+            "529Z9TAB94.com.amazon.CloudDrivePhotos.dev",
+            "J7P34ALZ5R.com.amazon.CloudDrivePhotos",
+            "5F4A8FGMM7.com.amazon.CloudDrivePhotosBeta",
+            "94KV3E626L.com.amazon.PasswordAutofillExample",
+            "94KV3E626L.com.amazon.AmazonBusiness",
+            "94KV3E626L.com.amazon.AmazonBusiness.adhoc",
+            "94KV3E626L.com.amazon.AmazonBusiness.development",
+            "5F4A8FGMM7.com.amazon.AmazonBusiness.Enterprise",
+            "94KV3E626L.com.amazon.narwhal",
+            "94KV3E626L.com.amazon.mcy",
+            "4LRHELGS6C.com.amazon.mercury.MercuryAppx",
+            "94KV3E626L.com.amazon.mercury.MercuryApp"
+        ]
+    }
+}

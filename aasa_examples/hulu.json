@@ -1,0 +1,50 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NRWTA23RPA.com.hulu.iosbowie",
+                "paths": [
+                    "/open/",
+                    "/shows/*",
+                    "/videos/*",
+                    "/genres/*",
+                    "/companies/*",
+                    "/movie/*",
+                    "/watch/*",
+                    "/series/*",
+                    "/network/*",
+                    "/hub/*",
+                    "/genre/*",
+                    "/sports_episode/*",
+                    "/sports_team/*"
+                ]
+            },
+            {
+                "appID": "ZUW57S6CYF.com.hulu.plus",
+                "paths": [
+                    "/open/",
+                    "/shows/*",
+                    "/videos/*",
+                    "/genres/*",
+                    "/companies/*",
+                    "/movie/*",
+                    "/watch/*",
+                    "/series/*",
+                    "/network/*",
+                    "/hub/*",
+                    "/genre/*",
+                    "/sports_episode/*",
+                    "/sports_team/*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "ZUW57S6CYF.com.hulu.plus",
+            "NRWTA23RPA.com.hulu.iosbowie",
+            "NRWTA23RPA.com.hulu.atvpoc"
+        ]
+    }
+}
