@@ -46,7 +46,7 @@ $ wc -l aasa_examples/amazon.json
 <!-- Prerequisites -->
 ###  Prerequisites
 
-This project uses python3 and standard libraries.
+This project uses python3 standard libraries. 
 
 <!-- Run -->
 ### Run
