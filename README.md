@@ -9,7 +9,7 @@ AASA-Examples is a repository of examples of [Apple App Site Association](https:
 
 Some companies have quite small AASA files:
 
-Telegram:
+Telegram.json
 ```
 {
     "applinks": {
