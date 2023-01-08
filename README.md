@@ -1,7 +1,7 @@
 <!-- About the Project -->
 ## About the Project
 
-AASA-Examples is a repository of examples of [Apple App Site Association](https://developer.apple.com/documentation/xcode/supporting-associated-domains) files from several companies and organizations.
+AASA-Examples is examples of [Apple App Site Association](https://developer.apple.com/documentation/xcode/supporting-associated-domains) files from several companies and organizations.
 
 #### You can use this project to 
 - Better understand how AASA files work
